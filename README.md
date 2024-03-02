@@ -9,8 +9,6 @@ BertQA is a sophisticated Question Answering system leveraging the powerful BERT
 ## Introduction
 Question Answering systems are crucial in natural language processing, helping machines understand human language and provide relevant, concise answers. By utilizing the pre-trained BERT model, BertQA can accurately extract answers from a given text, showcasing the effectiveness of transformer models in handling language-based tasks.
 
-
-
 ## Model Building
 The core of BertQA is built on a pre-trained BERT model fine-tuned for the question answering task. The fine-tuning process involves:
 
